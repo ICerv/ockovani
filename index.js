@@ -19,11 +19,6 @@ document.body.innerHTML += '<p> Vek: ' + person.age + '</p>'
 
 
 
-
-
-
-
-
 /****************ZADANI 2.********************/
 /*
 let jmeno = prompt('Zadej sve jmeno');
